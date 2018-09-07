@@ -8,7 +8,7 @@
 1.下载模型
 
 从github上下载模型，下载地址：https://github.com/tensorflow/models
-![这里写图片描述](https://github.com/holidayun/Tensorflow-Object-Detection-API-Running-Tutorial/reademe/clone.png)
+![这里写图片描述](https://github.com/holidayun/Tensorflow-Object-Detection-API-Running-Tutorial/blob/master/readme/clone.png)
 
 
 2.Protobuf 安装：
