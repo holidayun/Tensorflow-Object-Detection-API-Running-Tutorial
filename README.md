@@ -14,7 +14,7 @@
 2.Protobuf 安装：
 
 从https://github.com/google/protobuf/releases下载win版的工具，如下图：
-![这里写图片描述](https://github.com/holidayun/Tensorflow-Object-Detection-API-Running-Tutorial/reademe/protoc.png)
+![这里写图片描述](https://github.com/holidayun/Tensorflow-Object-Detection-API-Running-Tutorial/blob/master/readme/protoc.png)
 
 
 
@@ -81,15 +81,15 @@ python object_detection\builders\model_builder_test.py
 终端输入：jupyter notebook
 浏览器会默认打开一个 http://localhost:8888/tree的网址
 打开文件**object_detection_tutorial.ipynb**， 运行demo
-![这里写图片描述](https://github.com/holidayun/Tensorflow-Object-Detection-API-Running-Tutorial/reademe/run.png)
+![这里写图片描述](https://github.com/holidayun/Tensorflow-Object-Detection-API-Running-Tutorial/blob/master/readme/run.png)
 
 
 在Cell中点击 Run All
-![这里写图片描述](https://github.com/holidayun/Tensorflow-Object-Detection-API-Running-Tutorial/reademe/runall.png)
+![这里写图片描述](https://github.com/holidayun/Tensorflow-Object-Detection-API-Running-Tutorial/blob/master/readme/runall.png)
 
 
 耐心等待一小会儿， 出现下图结果表示环境安装成功。
-![这里写图片描述](https://github.com/holidayun/Tensorflow-Object-Detection-API-Running-Tutorial/reademe/result.png)
+![这里写图片描述](https://github.com/holidayun/Tensorflow-Object-Detection-API-Running-Tutorial/blob/master/readme/result.png)
 
 
 若想修改识别的图片，可修改以下位置的代码，根据自己的需求进行修改。
